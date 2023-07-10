@@ -90,3 +90,30 @@
     padding-left: 50px;
     
 }
+.of{
+    color: red;
+}
+.text-title{
+    text-align: center;
+    align-items: center;
+    padding-left: 20px;
+    background-color: antiquewhite;
+    
+}
+.text-flower{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    padding-left: 20px;
+    background-color: antiquewhite;
+    justify-content: space-around;
+}
+.fg-img{
+    padding: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 150px;
+}
+.text-des{
+    padding-left: 80px;
+}
