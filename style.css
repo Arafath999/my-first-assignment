@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.first-section{
+    display: flex;
+    height: 88vh;
+    background-color: bisque;
+    background-size: cover;
+    /* margin-bottom: 300px; */
+    background-position: center;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    /* padding: 20px; */
+}
+.first-sec-title{
+    justify-content: space-around;
+    text-align: center;
+    background-size: cover;
+    align-items: center;
+    padding-left: 120px;
+    background-position: center;
+    text-align: center;
+    padding-top: ;
+    }
+
+.first-sec-image{
+    padding-right: 90px;
+    background-size: cover;
+} 
+.des{
+    text-align: center;
+    align-items: center;
+    font-size: small;
+    color: red;
+    
+}
+.btn{
+    border: none;
+    padding: 12px 20px;
+    border-radius: 5px;
+    color: black;
+    background-color: crimson;
+}
+.second-section{
+    text-align: center;
+    align-items: center;
+    font-size: small;
+    color: black;
+    padding-top: 40px;
+
+}
+.flowers{
+    display: flex;
+    /* align-items: center; */
+    gap: 0;
+    justify-content: space-around;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    /* box-shadow: rgb(82, 2, 19); */
+    border-radius: 5px;
+    padding-top: 20px;
+    
+}
+.flow{
+    background-color: rgb(229, 133, 133);
+    border-top-left-radius: 70px;
+    border-top-right-radius: 70px;
+    
+    
+}
+.floww{
+    background-color: rgb(90, 82, 82);
+    border-top-left-radius: 70px;
+    border-top-right-radius: 70px;
+
+    
+}
+.flowww{
+
+  background-color: rgb(204, 199, 199);
+    border-top-left-radius: 70px;
+    border-top-right-radius: 70px;
+}
+.rl{
+    text-align: center;
+    align-items: center;
+    padding-left: 50px;
+    
+}
