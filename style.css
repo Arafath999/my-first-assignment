@@ -9,19 +9,19 @@
     background-size: cover;
     /* margin-bottom: 300px; */
     background-position: center;
-    text-align: center;
+    /* text-align: center; */
     align-items: center;
     justify-content: center;
     /* padding: 20px; */
 }
 .first-sec-title{
     justify-content: space-around;
-    text-align: center;
+    /* text-align: center; */
     background-size: cover;
     align-items: center;
     padding-left: 120px;
     background-position: center;
-    text-align: center;
+    /* text-align: center; */
     padding-top: ;
     }
 
@@ -213,3 +213,4 @@ margin: 0px;
 padding: 0px;
 gap: 10px;
 }
+
