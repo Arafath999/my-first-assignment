@@ -4,15 +4,17 @@
 }
 .first-section{
     display: flex;
-    height: 88vh;
+    height: 76vh;
     background-color: bisque;
-    background-size: cover;
+    /* background-size: cover; */
     /* margin-bottom: 300px; */
     background-position: center;
     /* text-align: center; */
     align-items: center;
     justify-content: center;
-    /* padding: 20px; */
+    background-size: auto;
+    /* padding-left: 200px; */
+    
 }
 .first-sec-title{
     justify-content: space-around;
@@ -23,6 +25,7 @@
     background-position: center;
     /* text-align: center; */
     padding-top: ;
+    
     }
 
 .first-sec-image{
