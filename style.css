@@ -138,7 +138,7 @@
     /* justify-content: space-around; */
     gap: 10px;
     margin-top: 30px;
-    padding-left: 300px;
+    padding-left: 120px;
     
 }
 .photo{
@@ -165,8 +165,8 @@
     padding: 50px 100px 100px 50px;
     align-items: center;
     justify-content: space-around;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 120px;
+    margin-right: 120px;
     border-radius: 20px;
     background-size: auto;
     margin-top: 15px;
