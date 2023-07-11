@@ -64,11 +64,15 @@
     margin-left: 50px;
     margin-right: 50px;
     margin-bottom: 50px;
-    /* box-shadow: rgb(82, 2, 19); */
     border-radius: 5px;
     padding-top: 20px;
+    align-items: center;
+    /* background-position: center; */
+    background-size: cover;
+    
     
 }
+
 .flow{
     background-color: rgb(229, 133, 133);
     border-top-left-radius: 70px;
